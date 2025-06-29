@@ -35,8 +35,8 @@ Para rodar esta aplicação em sua máquina local, siga os passos abaixo.
 1.  **Clone ou baixe este repositório:**
     ```bash
     # Exemplo com git
-    git clone <url-do-seu-repositorio>
-    cd <nome-da-pasta-do-projeto>
+    git clone https://github.com/jpscard/I2A2---Analise-Ambiental.git
+    cd I2A2---Analise-Ambiental-main
     ```
 
 2.  **Crie e ative um ambiente virtual (altamente recomendado):**
