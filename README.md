@@ -78,3 +78,5 @@ Para rodar esta aplicação em sua máquina local, siga os passos abaixo.
 ## 5. Aplicaçãoo
 
 O projeto está hospedado em: (https://akwfkhlpidsaw5ekj5tss9.streamlit.app/)
+
+Use os arquivos csv da pasta dados
