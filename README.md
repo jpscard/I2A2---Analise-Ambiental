@@ -75,6 +75,6 @@ Para rodar esta aplicação em sua máquina local, siga os passos abaixo.
 
 ---
 
-## 4. Estrutura do Projeto
+## 5. Aplicaçãoo
 
-O projeto está organizado da seguinte forma para facilitar a manutenção e a navegação:
+O projeto está hospedado em: (https://akwfkhlpidsaw5ekj5tss9.streamlit.app/)
