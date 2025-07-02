@@ -32,7 +32,7 @@ with tab_limpar:
                 st.write("Estatísticas da Base Socioeconômica:")
                 st.dataframe(df_socio_raw.describe())
 
-            temp_range = st.slider("Faixa de Temperatura (°C) aceitável:", -10, 50, (15, 45))
+            temp_range = st.slider("Faixa de Temperatura (°C) aceitável:", -10, 50, (15, 50))
             umidade_range = st.slider("Faixa de Umidade do Solo (%) aceitável:", 0, 100, (0, 100))
             
             validation_submitted = st.form_submit_button("Validar e Realizar Limpeza Básica")
