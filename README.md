@@ -1,5 +1,11 @@
 # Projeto de Análise Socioambiental na Amazônia
 
+## 0. Aplicação
+
+O projeto está hospedado em: (https://akwfkhlpidsaw5ekj5tss9.streamlit.app/)
+
+Use os arquivos csv da pasta dados
+
 ## 1. Introdução e Contexto
 
 Este projeto consiste em uma **aplicação web interativa** desenvolvida para analisar os impactos de variações climáticas e da gestão de recursos hídricos na segurança alimentar e na saúde de comunidades ribeirinhas na Amazônia.
@@ -74,9 +80,3 @@ Para rodar esta aplicação em sua máquina local, siga os passos abaixo.
     A aplicação será aberta automaticamente no seu navegador padrão.
 
 ---
-
-## 5. Aplicaçãoo
-
-O projeto está hospedado em: (https://akwfkhlpidsaw5ekj5tss9.streamlit.app/)
-
-Use os arquivos csv da pasta dados
